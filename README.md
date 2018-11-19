@@ -1,4 +1,4 @@
-# Psychic-game
+# Psychic Game
 
 https://mdsw81.github.io/Psychic-game/
 
